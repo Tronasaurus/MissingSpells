@@ -1,0 +1,7 @@
+## Interface: 50400
+## Title: MissingSpells
+## Notes: Shows icons for active spells not on your action bar
+## Author: Tronasaurus@Discord
+## Version: 1.0
+
+MissingSpells.lua
